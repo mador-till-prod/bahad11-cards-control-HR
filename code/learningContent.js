@@ -546,5 +546,3 @@ CARD_TYPES.listNumbers = {
         }
     }
 }
-
-alert("חסרים שלושה סרטונים!")

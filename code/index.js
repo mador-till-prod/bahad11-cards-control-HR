@@ -1,6 +1,6 @@
 // כללי
 var SUBJECTS_TITLES;
-const AMOUNT_OF_TOTAL_QUESTIONS = 20;
+const AMOUNT_OF_TOTAL_QUESTIONS = 0;
 var blurAmount = "10px";
 //
 var selectedSubjects = [];
