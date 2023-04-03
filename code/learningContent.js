@@ -13,10 +13,10 @@ const TIME_FOR_EXAM = "11:00";
 
                         HOW TO CREATE NEW COLOR
             search for the listed colors and switch to the desired ones
-    1. Primary color: #1aa3a3;
-    2. Secondary color: #67dfcb;
-    3. Text color: #1f3e3e
-    4. Open image + gradient color: #629191;
+    1. Primary color: #223D6D;
+    2. Secondary color: #516FA5;
+    3. Text color: #031520
+    4. Open image + gradient color: #516FA5;
             */
     
     /* amountOfQuestions - max number of questions from the subject that will appear in the test*/
